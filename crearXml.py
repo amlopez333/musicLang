@@ -1,6 +1,5 @@
 ##Proyecto
 #Andres Lopez-B43885
-#Jose Pablo Vargas -B37275
 #Gramatica para crear partituras
 
 #imports
@@ -175,7 +174,5 @@ def imprimir(fileName, scorePartWise):
     partitura = prettify(scorePartWise)
     with open(fileName, "w") as f:
         f.write(partitura)
-    #tree = ElementTree(scorePartWise)
-    #tree.write("C:/Users/Andy/Desktop/prueba.xml", encoding = "utf-8", xml_declaration = True) 
-    #print(tostring(scorePartWise, method = "xml"))
+    
 

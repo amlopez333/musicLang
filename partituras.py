@@ -1,6 +1,5 @@
 ﻿#Tarea proyecto
 #Andres Lopez-B43885
-#Jose Pablo Vargas -B37275
 #Gramatica para crear partituras
 
 #lista global para guardar los elementos de la partitura retornados por la produccion
